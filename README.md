@@ -11,10 +11,10 @@ Creating a Music Recommendation System using SPOTIFY API which involves **Natura
 
 **Deploy the WEB application using Streamlit :**
 
-* Choose the song:
+* **Choose the song:**
   
 ![Screenshot 2024-09-17 000809](https://github.com/user-attachments/assets/b0842f7b-b235-417e-9418-70ede80baef0)
 
-* Click "Show Recommendation" :
+* **Click "Show Recommendation" :**
 
   ![Screenshot 2024-09-17 000846](https://github.com/user-attachments/assets/bb928a40-8c06-4ce8-a808-420912c86fc2)
