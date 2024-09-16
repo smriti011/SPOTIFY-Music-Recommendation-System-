@@ -10,11 +10,30 @@ Creating a Music Recommendation System using SPOTIFY API which involves **Natura
 * User Interaction
 
 **Deploy the WEB application using Streamlit :**
+Spotify API is established using Client_ID and Client_secret.
+It creates a search query for spotify and retrieves first TRACK matching the criteria.
 
-* **Choose the song:**
+**If a match is found:**
+  It extracts the album cover URL and return it.
+   
+**If it doesn't find a match:**
+  Return default image URL (SPOTIFY image).
+  
+**Choose the song:**
   
 ![Screenshot 2024-09-17 000809](https://github.com/user-attachments/assets/b0842f7b-b235-417e-9418-70ede80baef0)
 
-* **Click "Show Recommendation" :**
+**Click "Show Recommendation" :**
 
   ![Screenshot 2024-09-17 000846](https://github.com/user-attachments/assets/bb928a40-8c06-4ce8-a808-420912c86fc2)
+
+**Default image URL :**
+
+![Screenshot 2024-09-17 024527](https://github.com/user-attachments/assets/d1dd815e-dc5d-4221-8a1c-eccba1dd76d8)
+
+
+
+
+
+
+
