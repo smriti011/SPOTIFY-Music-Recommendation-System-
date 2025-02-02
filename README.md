@@ -3,7 +3,7 @@
 Creating a Music Recommendation System using SPOTIFY API which involves **Natural Language Processing (NLP)** technique to analyze the text description and recommend music based on the content.
 
 
-**Approach involved:**
+## Approach involved:
 
 * Import libraries : Pandas, Sklearn, Streamlit, Spotipy, Pickle
 * Data Collection
@@ -12,7 +12,7 @@ Creating a Music Recommendation System using SPOTIFY API which involves **Natura
 * Building a Recommendation Model (Content based filtering)
 * User Interaction
 
-**Deploy the WEB application using Streamlit :**
+## Deploy the WEB application using Streamlit :
 
 Spotify API is established using Client_ID and Client_secret.
 It creates a search query for spotify and retrieves first TRACK matching the criteria.
@@ -36,6 +36,9 @@ It creates a search query for spotify and retrieves first TRACK matching the cri
 **Default image URL :**
 
 ![Screenshot 2024-09-17 024527](https://github.com/user-attachments/assets/d1dd815e-dc5d-4221-8a1c-eccba1dd76d8)
+
+
+![Screenshot 2025-01-04 235045](https://github.com/user-attachments/assets/b3f9371d-b885-4f1e-8dae-8d5f401dd382)
 
 
 
